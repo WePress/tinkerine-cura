@@ -1,17 +1,23 @@
-##Settings for using Cura with our Tinkerine Printer
+###Settings for using Cura with our Tinkerine Printer
 
 Go to `Settings > Printer > Add Printer...` in the top menu bar and click on  **Custom** and then **Custom Printer** and then press the **Add Printer** button. Fill in the Machine settings listed below and then press the **Finish** button.
 
-##Machine Settings##
+###Machine Settings
 
 **X (Width)** `220 mm`
+
 **Y (Depth)** `165 mm`
+
 **Z (Height)** `220 mm`
+
 
 **Gcode flavor** `Marlin`
 
+
 **Material Diameter** `1.75 mm`
+
 **Nozzle Size** `0.35 mm`
+
 
 **Start Gcode**
 
@@ -31,6 +37,7 @@ G1 X12 Y2 E14 F1500
 G92 E0
 ```
 
+
 **End Gcode**
 
 ```
@@ -48,6 +55,7 @@ M84                         ;steppers off
 G90                         ;absolute positioning
 ```
 
-##Cura Profile for PLA Filament
+
+###Cura Profile for PLA Filament
 
 Go to `Settings > Profiles > Manage Profiles...` in the top menu bar and then click the **Import** button and choose the `TINKERINE_PLA.curaprofile` file from this repository.
