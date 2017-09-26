@@ -1,8 +1,8 @@
-###Settings for using Cura with our Tinkerine Printer
+## Settings for using Cura with our Tinkerine Printer
 
 Go to `Settings > Printer > Add Printer...` in the top menu bar and click on  **Custom** and then **Custom Printer** and then press the **Add Printer** button. Fill in the Machine settings listed below and then press the **Finish** button.
 
-###Machine Settings
+## Machine Settings
 
 **X (Width)** `220 mm`
 
@@ -56,6 +56,6 @@ G90                         ;absolute positioning
 ```
 
 
-###Cura Profile for PLA Filament
+## Cura Profile for PLA Filament
 
 Go to `Settings > Profiles > Manage Profiles...` in the top menu bar and then click the **Import** button and choose the `TINKERINE_PLA.curaprofile` file from this repository.
