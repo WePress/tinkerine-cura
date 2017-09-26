@@ -1,7 +1,6 @@
 ## Settings for using Cura with our Tinkerine Printer
 
-First download and install Cura. 
-** [Cura Software](https://ultimaker.com/en/products/cura-software) **
+First download and install the [Cura Software](https://ultimaker.com/en/products/cura-software)
 
 Go to `Settings > Printer > Add Printer...` in the top menu bar and click on  **Custom** and then **Custom Printer** and then press the **Add Printer** button. Fill in the Machine settings listed below and then press the **Finish** button.
 
